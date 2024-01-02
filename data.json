@@ -1,0 +1,998 @@
+[
+    {
+        "activity":"Cycling, mountain bike, bmx",
+        "calories burned per hour":675
+    },
+    {
+        "activity":"Cycling, <10 mph, leisure bicycling",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Cycling, >20 mph, racing",
+        "calories burned per hour":1271
+    },
+    {
+        "activity":"Cycling, 10-11.9 mph, light",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Cycling, 12-13.9 mph, moderate",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Cycling, 14-15.9 mph, vigorous",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Cycling, 16-19 mph, very fast, racing",
+        "calories burned per hour":953
+    },
+    {
+        "activity":"Unicycling",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Stationary cycling, very light",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Stationary cycling, light",
+        "calories burned per hour":436
+    },
+    {
+        "activity":"Stationary cycling, moderate",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Stationary cycling, vigorous",
+        "calories burned per hour":834
+    },
+    {
+        "activity":"Stationary cycling, very vigorous",
+        "calories burned per hour":993
+    },
+    {
+        "activity":"Calisthenics, vigorous, pushups, situps\u2026",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Calisthenics, light",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Circuit training, minimal rest",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Weight lifting, body building, vigorous",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Weight lifting, light workout",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Health club exercise",
+        "calories burned per hour":436
+    },
+    {
+        "activity":"Stair machine",
+        "calories burned per hour":714
+    },
+    {
+        "activity":"Rowing machine, light",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Rowing machine, moderate",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Rowing machine, vigorous",
+        "calories burned per hour":675
+    },
+    {
+        "activity":"Rowing machine, very vigorous",
+        "calories burned per hour":953
+    },
+    {
+        "activity":"Ski machine",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Aerobics, low impact",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Aerobics, high impact",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Aerobics, step aerobics",
+        "calories burned per hour":675
+    },
+    {
+        "activity":"Aerobics, general",
+        "calories burned per hour":516
+    },
+    {
+        "activity":"Jazzercise",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Stretching, hatha yoga",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Mild stretching",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Instructing aerobic class",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Water aerobics",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Ballet, twist, jazz, tap",
+        "calories burned per hour":357
+    },
+    {
+        "activity":"Ballroom dancing, slow",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Ballroom dancing, fast",
+        "calories burned per hour":436
+    },
+    {
+        "activity":"Running, 5 mph (12 minute mile)",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Running, 5.2 mph (11.5 minute mile)",
+        "calories burned per hour":714
+    },
+    {
+        "activity":"Running, 6 mph (10 min mile)",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Running, 6.7 mph (9 min mile)",
+        "calories burned per hour":874
+    },
+    {
+        "activity":"Running, 7 mph (8.5 min mile)",
+        "calories burned per hour":913
+    },
+    {
+        "activity":"Running, 7.5mph (8 min mile)",
+        "calories burned per hour":993
+    },
+    {
+        "activity":"Running, 8 mph (7.5 min mile)",
+        "calories burned per hour":1072
+    },
+    {
+        "activity":"Running, 8.6 mph (7 min mile)",
+        "calories burned per hour":1112
+    },
+    {
+        "activity":"Running, 9 mph (6.5 min mile)",
+        "calories burned per hour":1191
+    },
+    {
+        "activity":"Running, 10 mph (6 min mile)",
+        "calories burned per hour":1271
+    },
+    {
+        "activity":"Running, 10.9 mph (5.5 min mile)",
+        "calories burned per hour":1430
+    },
+    {
+        "activity":"Running, cross country",
+        "calories burned per hour":714
+    },
+    {
+        "activity":"Running, general",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Running, on a track, team practice",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Running, stairs, up",
+        "calories burned per hour":1191
+    },
+    {
+        "activity":"Track and field (shot, discus)",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Track and field (high jump, pole vault)",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Track and field (hurdles)",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Archery",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Badminton",
+        "calories burned per hour":357
+    },
+    {
+        "activity":"Basketball game, competitive",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Playing basketball, non game",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Basketball, officiating",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Basketball, shooting baskets",
+        "calories burned per hour":357
+    },
+    {
+        "activity":"Basketball, wheelchair",
+        "calories burned per hour":516
+    },
+    {
+        "activity":"Running, training, pushing wheelchair",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Billiards",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Bowling",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Boxing, in ring",
+        "calories burned per hour":953
+    },
+    {
+        "activity":"Boxing, punching bag",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Boxing, sparring",
+        "calories burned per hour":714
+    },
+    {
+        "activity":"Coaching: football, basketball, soccer\u2026",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Cricket (batting, bowling)",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Croquet",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Curling",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Darts (wall or lawn)",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Fencing",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Football, competitive",
+        "calories burned per hour":714
+    },
+    {
+        "activity":"Football, touch, flag, general",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Football or baseball, playing catch",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Frisbee playing, general",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Frisbee, ultimate frisbee",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Golf, general",
+        "calories burned per hour":357
+    },
+    {
+        "activity":"Golf, walking and carrying clubs",
+        "calories burned per hour":357
+    },
+    {
+        "activity":"Golf, driving range",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Golf, miniature golf",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Golf, walking and pulling clubs",
+        "calories burned per hour":341
+    },
+    {
+        "activity":"Golf, using power cart",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Gymnastics",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Hacky sack",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Handball",
+        "calories burned per hour":953
+    },
+    {
+        "activity":"Handball, team",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Hockey, field hockey",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Hockey, ice hockey",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Riding a horse, general",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Horesback riding, saddling horse",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Horseback riding, grooming horse",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Horseback riding, trotting",
+        "calories burned per hour":516
+    },
+    {
+        "activity":"Horseback riding, walking",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Horse racing, galloping",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Horse grooming, moderate",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Horseshoe pitching",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Jai alai",
+        "calories burned per hour":953
+    },
+    {
+        "activity":"Martial arts, judo, karate, jujitsu",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Martial arts, kick boxing",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Martial arts, tae kwan do",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Krav maga training",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Juggling",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Kickball",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Lacrosse",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Orienteering",
+        "calories burned per hour":714
+    },
+    {
+        "activity":"Playing paddleball",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Paddleball, competitive",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Polo",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Racquetball, competitive",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Playing racquetball",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Rock climbing, ascending rock",
+        "calories burned per hour":874
+    },
+    {
+        "activity":"Rock climbing, rappelling",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Jumping rope, fast",
+        "calories burned per hour":953
+    },
+    {
+        "activity":"Jumping rope, moderate",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Jumping rope, slow",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Rugby",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Shuffleboard, lawn bowling",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Skateboarding",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Roller skating",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Roller blading, in-line skating",
+        "calories burned per hour":953
+    },
+    {
+        "activity":"Sky diving",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Soccer, competitive",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Playing soccer",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Softball or baseball",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Softball, officiating",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Softball, pitching",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Squash",
+        "calories burned per hour":953
+    },
+    {
+        "activity":"Table tennis, ping pong",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Tai chi",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Playing tennis",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Tennis, doubles",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Tennis, singles",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Trampoline",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Volleyball, competitive",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Playing volleyball",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Volleyball, beach",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Wrestling",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Wallyball",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Backpacking, Hiking with pack",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Carrying infant, level ground",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Carrying infant, upstairs",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Carrying 16 to 24 lbs, upstairs",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Carrying 25 to 49 lbs, upstairs",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Standing, playing with children, light",
+        "calories burned per hour":222
+    },
+    {
+        "activity":"Walk\/run, playing with children, moderate",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Walk\/run, playing with children, vigorous",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Carrying small children",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Loading, unloading car",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Climbing hills, carrying up to 9 lbs",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Climbing hills, carrying 10 to 20 lb",
+        "calories burned per hour":596
+    },
+    {
+        "activity":"Climbing hills, carrying 21 to 42 lb",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Climbing hills, carrying over 42 lb",
+        "calories burned per hour":714
+    },
+    {
+        "activity":"Walking downstairs",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Hiking, cross country",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Bird watching",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Marching, rapidly, military",
+        "calories burned per hour":516
+    },
+    {
+        "activity":"Children's games, hopscotch, dodgeball",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Pushing stroller or walking with children",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Pushing a wheelchair",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Race walking",
+        "calories burned per hour":516
+    },
+    {
+        "activity":"Rock climbing, mountain climbing",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Walking using crutches",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Walking the dog",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Walking, under 2.0 mph, very slow",
+        "calories burned per hour":158
+    },
+    {
+        "activity":"Walking 2.0 mph, slow",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Walking 2.5 mph",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Walking 3.0 mph, moderate",
+        "calories burned per hour":262
+    },
+    {
+        "activity":"Walking 3.5 mph, brisk pace",
+        "calories burned per hour":302
+    },
+    {
+        "activity":"Walking 3.5 mph, uphill",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Walking 4.0 mph, very brisk",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Walking 4.5 mph",
+        "calories burned per hour":500
+    },
+    {
+        "activity":"Walking 5.0 mph",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Boating, power, speed boat",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Canoeing, camping trip",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Canoeing, rowing, light",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Canoeing, rowing, moderate",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Canoeing, rowing, vigorous",
+        "calories burned per hour":953
+    },
+    {
+        "activity":"Crew, sculling, rowing, competition",
+        "calories burned per hour":953
+    },
+    {
+        "activity":"Kayaking",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Paddle boat",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Windsurfing, sailing",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Sailing, competition",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Sailing, yachting, ocean sailing",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Skiing, water skiing",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Ski mobiling",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Skin diving, fast",
+        "calories burned per hour":1271
+    },
+    {
+        "activity":"Skin diving, moderate",
+        "calories burned per hour":993
+    },
+    {
+        "activity":"Skin diving, scuba diving",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Snorkeling",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Surfing, body surfing or board surfing",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Whitewater rafting, kayaking, canoeing",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Swimming laps, freestyle, fast",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Swimming laps, freestyle, slow",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Swimming backstroke",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Swimming breaststroke",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Swimming butterfly",
+        "calories burned per hour":874
+    },
+    {
+        "activity":"Swimming leisurely, not laps",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Swimming sidestroke",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Swimming synchronized",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Swimming, treading water, fast, vigorous",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Swimming, treading water, moderate",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Water aerobics, water calisthenics",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Water polo",
+        "calories burned per hour":794
+    },
+    {
+        "activity":"Water volleyball",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Water jogging",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Diving, springboard or platform",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Ice skating, < 9 mph",
+        "calories burned per hour":436
+    },
+    {
+        "activity":"Ice skating, average speed",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Ice skating, rapidly",
+        "calories burned per hour":714
+    },
+    {
+        "activity":"Speed skating, ice, competitive",
+        "calories burned per hour":1191
+    },
+    {
+        "activity":"Cross country snow skiing, slow",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Cross country skiing, moderate",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Cross country skiing, vigorous",
+        "calories burned per hour":714
+    },
+    {
+        "activity":"Cross country skiing, racing",
+        "calories burned per hour":1112
+    },
+    {
+        "activity":"Cross country skiing, uphill",
+        "calories burned per hour":1310
+    },
+    {
+        "activity":"Snow skiing, downhill skiing, light",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Downhill snow skiing, moderate",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Downhill snow skiing, racing",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Sledding, tobagganing, luge",
+        "calories burned per hour":556
+    },
+    {
+        "activity":"Snow shoeing",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Snowmobiling",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"General housework",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Cleaning gutters",
+        "calories burned per hour":397
+    },
+    {
+        "activity":"Painting",
+        "calories burned per hour":357
+    },
+    {
+        "activity":"Sit, playing with animals",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Walk \/ run, playing with animals",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Bathing dog",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Mowing lawn, walk, power mower",
+        "calories burned per hour":436
+    },
+    {
+        "activity":"Mowing lawn, riding mower",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Walking, snow blower",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Riding, snow blower",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Shoveling snow by hand",
+        "calories burned per hour":476
+    },
+    {
+        "activity":"Raking lawn",
+        "calories burned per hour":341
+    },
+    {
+        "activity":"Gardening, general",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Bagging grass, leaves",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Watering lawn or garden",
+        "calories burned per hour":119
+    },
+    {
+        "activity":"Weeding, cultivating garden",
+        "calories burned per hour":357
+    },
+    {
+        "activity":"Carpentry, general",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Carrying heavy loads",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"Carrying moderate loads upstairs",
+        "calories burned per hour":635
+    },
+    {
+        "activity":"General cleaning",
+        "calories burned per hour":278
+    },
+    {
+        "activity":"Cleaning, dusting",
+        "calories burned per hour":198
+    },
+    {
+        "activity":"Taking out trash",
+        "calories burned per hour":238
+    },
+    {
+        "activity":"Walking, pushing a wheelchair",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Teach physical education,exercise class",
+        "calories burned per hour":317
+    },
+    {
+        "activity":"Teach exercise classes (& participate)",
+        "calories burned per hour":516
+    }
+]
